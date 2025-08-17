@@ -1,6 +1,7 @@
 # MultiModal-RAG
 
-# Overview: With the growing number of research papers being published it is becoming more and more important to continue reading and understnading them to understand the AI landscape. The following project aims to reduce the gap between the research paper and an engineering undergrad. The following project outlines two approaches to build a chatbot to have a conversation with a chatbot about a research paper(Attention is all you need in this case). Since research paper consists of unstructured data in the form of tables,images and texts it becomes increasing difficult to extract each bit of information.
+# Overview: 
+With the growing number of research papers being published it is becoming more and more important to continue reading and understnading them to understand the AI landscape. The following project aims to reduce the gap between the research paper and an engineering undergrad. The following project outlines two approaches to build a chatbot to have a conversation with a chatbot about a research paper(Attention is all you need in this case). Since research paper consists of unstructured data in the form of tables,images and texts it becomes increasing difficult to extract each bit of information.
 
 ## Approach:1 in MM-RAG
 <img width="850" height="431" alt="image" src="https://github.com/user-attachments/assets/10c39482-64b2-4c60-b225-4b06c49df0e4" />
